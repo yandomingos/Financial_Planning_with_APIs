@@ -46,3 +46,7 @@ For this part of the project, I fecthed data from the API and ran Monte Carlos s
 The image below shows the simulation as well as distribution throughout the years, as per asked. 
 
 ![](Images/5.png)
+
+Finally, we can see that this portfolio wouldn't return too great of investments as per two calculated simulations. For an early retirement the portfolio would return only a safe margin of profits.
+
+![](Images/6.png)
